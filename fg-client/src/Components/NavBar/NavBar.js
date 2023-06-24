@@ -55,7 +55,7 @@ export default function NavBar(props) {
             </Link>
             <Link to="/logout">
               <button className="danger" style={{ "margin-top": ".7rem" }}>
-                Logout
+                Logout Bye
               </button>
             </Link>
           </Grid>
