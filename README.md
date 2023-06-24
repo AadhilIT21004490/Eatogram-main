@@ -1,24 +1,18 @@
 
-# **Team Name - Flavorgram**
+# **Team Name - Eatogram**
 
-## **Project Group - 135**
-
----
-
-- ### **Group Leader** - IT21064654 - Fernando M.T.S (Thrinith)
-
-- ### **Member 2** - IT21006166 - Bishirhafi F.S.M.T (IT21006166)
-
-- ### **Member 3** - IT21009686 - Sarah M.I.L (IT21009686)
-
-- ### **Member 4** - IT21034572 - Hiroshan I (it21034572)
+## **Project Group - 51**
 
 ---
 
-## **🍜 Flavorgram**
+- ### **Group Leader** - IT21004490 - Aadhil S.M
 
-Flavogram is a social media web application that aims to provide a platform for “foodies” (food and beverage reviewers) to share their food and dining experiences while connecting and communicating with others.
+---
 
-Flavorgram will include features such as user profiles, news feed, messaging, and content sharing.
+## **Eatorgram**
 
-Flavorgram will be available on both web and mobile platforms to ensure accessibility and convenience for users.
+Eatogram is a social media web application that aims to provide a platform for “foodies” (food and beverage reviewers) to share their food and dining experiences while connecting and communicating with others.
+
+Eatogram will include features such as user profiles, news feed, messaging, and content sharing.
+
+Eatogram will be available on both web and mobile platforms to ensure accessibility and convenience for users.
